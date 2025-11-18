@@ -1,0 +1,6 @@
+# Core numerical and image processing libraries
+numpy
+opencv-python
+scikit-image
+matplotlib
+pandas # For handling ground truth and metrics
